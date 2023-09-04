@@ -1,0 +1,9 @@
+Sensor_name,Type,FBG_associated,Variation_reference,equation_type,A,B,C,D
+A1,temperature,FBG_A1,True,linear,1,0,,
+A2,temperature,FBG_A2,False,linear,1,-1500,,
+A3,temperature,FBG_A3,False,linear,1,-1500,,
+A4,temperature,FBG_A4,False,linear,1,-1500,,
+A5,temperature,FBG_A5,False,linear,1,-1500,,
+A6,temperature,FBG_A6,False,linear,1,-1500,,
+A7,temperature,FBG_A7,False,linear,1,-1500,,
+A8,temperature,FBG_A8,False,linear,1,-1500,,
